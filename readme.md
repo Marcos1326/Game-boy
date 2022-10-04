@@ -3,7 +3,7 @@
 
 This is a simple project that shows the exterior interface of a video console.
 
-<img src="/imagenes%20Gameboy/Gameboy.png" height="400">
+<img src="imagenes%20Gameboy/Gameboy.png" height="400">
 
 <hr>
 
@@ -14,7 +14,7 @@ It is currently in a very early version of what may become the final product. At
 The version is 1.0
 
 
-<img src="/imagenes%20Gameboy/boton.PNG" height="100">
+<img src="imagenes%20Gameboy/boton.PNG" height="100">
 
 <hr>
 
@@ -45,7 +45,7 @@ The on/off mechanism is based on a simple command made in javascript, it shows h
 
     }
 
-<img src="/imagenes%20Gameboy/Gameboygift.gif" height="300">
+<img src="imagenes%20Gameboy/Gameboygift.gif" height="300">
 
 <hr>
 
@@ -55,8 +55,8 @@ This project is based on an old Japanese gameboy classic released in 1989. It is
 
 >Here we can see the two versions
 
-<img src="/imagenes%20Gameboy/Gameboy_on.PNG" height="400">
-<img src="/imagenes%20Gameboy/Gameboyclassic.jpg" height="400">
+<img src="imagenes%20Gameboy/Gameboy_on.PNG" height="400">
+<img src="imagenes%20Gameboy/Gameboyclassic.jpg" height="400">
 
 <hr>
 
